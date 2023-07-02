@@ -14,6 +14,11 @@ Bei einem solchen Projekt darf natürlich der FSEIgel nicht fehlen. Er hat selbs
 ## Projekt Status
 Der Würfel ist voll funktionsfähig und als Lötübung in der Fachschaft Elektro- und Informationstechnik als Kit mit allen benötigten Komponenten sowie bereits installierter Software erhältlich.
 
+Still ToDo:
+- Version 2.0 ist Stand 02.07.2023 noch UNTESTED!
+- Dokumentation
+- Interaktive HTML based BOM [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+- Bilder von KIT hinzufügen
 
 ----
 ## Zielgruppe / Dauer
@@ -84,3 +89,14 @@ Es ist toll, dass du anderen Zeigen möchtest wie einfach Löten oder Elektrotec
 ## Autoren
 - Leo Scherer
 - Patrick Lermer
+
+----
+## Inspired by
+BlinkyParts <p>
+https://github.com/Binary-Kitchen/SolderingTutorial <p>
+https://binary-kitchen.github.io/SolderingTutorial/ <p>
+https://shop.blinkyparts.com/de/Bausaetze/
+
+----
+## Copyright and Authorship
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Fachschaft Elektro- und Informationstechnik der OTH Regensburg
