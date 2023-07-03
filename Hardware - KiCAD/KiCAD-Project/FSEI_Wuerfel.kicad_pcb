@@ -178,7 +178,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a506b9ce-6329-4e02-9314-b6df413119db)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9 90) (layer "F.Fab") hide
+    (fp_text value "Close if R8 and C2 (LowPass Filter) is NOT populated" (at 0 1.9 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7b99545c-555e-489f-bcc1-9c0bc6a070b9)
     )
@@ -1997,12 +1997,12 @@
     (property "ki_description" "Solder Jumper, 2-pole, closed/bridged")
     (property "ki_keywords" "solder jumper SPST")
     (path "/6dc9aba5-1404-4d62-943f-8dc38544f1be")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "JP2" (at 0 1.823609 180) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d35a9cf4-39e7-406a-aa94-6372241dfc18)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9 180) (layer "F.Fab") hide
+    (fp_text value "Close if SW1 is NOT populated" (at 0 1.9 180) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33e3dfba-e9d2-484c-8ce7-a330e5e1566c)
     )
