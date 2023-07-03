@@ -9,7 +9,7 @@ Bei einem solchen Projekt darf natürlich der FSEIgel nicht fehlen. Er hat selbs
 ![Wuerfel Version v1.0](/Bilder/v1.0/Animation_highQuality.gif)<p>
 ![Wuerfel Version v2.0](/Bilder/v2.0/Render_KiCAD_v2.0_FrontAndBack.png)<p>
 ![Wuerfel Version v2.0 Back](/Bilder/v2.0/Render_JLCPCB-Gerber_FrontAndBack.png)<p>
-Eine [interaktive BOM](https://htmlpreview.github.io/?https://github.com/FSEI-Rgbg/FSEI-LED_Wuerfel/tree/main/Hardware%20-%20KiCAD/KiCAD-Project/bom/FSEI_WuerfelPlatine_v2.0.html) zur einfachen Komponentenplatzierung gibt's natürlich auch.
+Eine [interaktive BOM](https://htmlpreview.github.io/?https://github.com/FSEI-Rgbg/FSEI-LED_Wuerfel/blob/main/Hardware%20-%20KiCAD/KiCAD-Project/bom/FSEI_WuerfelPlatine_v2.0.html) zur einfachen Komponentenplatzierung gibt's natürlich auch.
 
 
  
