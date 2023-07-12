@@ -101,4 +101,4 @@ BlinkyParts
 ## Copyright and Authorship
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Fachschaft Elektro- und Informationstechnik der OTH Regensburg
 
-© [FSEI OTH Regensburg](fsei-regensburg.de)
+[© FSEI OTH Regensburg](https://www.fsei-regensburg.de)
