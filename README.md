@@ -3,7 +3,7 @@
 Dieses Projekt wurde als Lötübung ins Leben gerufen. Es handelt sich um eine kleine Platine mit 7 LEDs und einem Taster. Beim Drücken des Tasters wird eine Zahl zwischen 1 und 6 gewürfelt, wie bei einem echten Würfel auch.
 
 
- 
+
 ## Wie sieht denn der Würfel eigentlich aus?
 Bei einem solchen Projekt darf natürlich der FSEIgel nicht fehlen. Er hat selbstverständlich seinen ganz eigenen Platz auf der Platine bekommen.<p>
 ![Wuerfel Version v1.0](/Bilder/v1.0/Animation_highQuality.gif)<p>
@@ -36,12 +36,11 @@ Still ToDo:
 <p>Danke für deine Mithilfe.
 
 
- 
 ## Dokumentation
 **TODO**
 <br>
-Eine Dokumentation wie alles funktioniert, zusammengebaut werden muss inkl. einer kurzen Erklärung für alles Weitere findest du [hier](/Doku/Dokumentation-FSEI-LED_Wuerfel_v2.0.pdf).
-
+Eine Dokumentation wie alles funktioniert, zusammengebaut werden muss inkl. einer kurzen Erklärung für alles Weitere findest du [hier](/Doku/Dokumentation-FSEI-LED_Wuerfel_v2.0.pdf).<p>
+Der interaktive Bestückungsplan ist [hier](https://htmlpreview.github.io/?https://github.com/FSEI-Rgbg/FSEI-LED_Wuerfel/blob/main/Hardware%20-%20KiCAD/KiCAD-Project/bom/FSEI_WuerfelPlatine_v2.0.html) zu finden. Damit kannst du einfach der Reihe nach alle Komponenten einbauen und Stück für Stück abhaken, was du schon erledigt hast.
 
  
 ## Support
@@ -52,8 +51,8 @@ Bei Problemen, Fragen oder Anregungen bitte einfach bei der Fachschaft Elektro- 
 ## Software
 **TODO**
 <br>
-<p>Beim Drücken des Tasters wird ein Timer gestartet, außerdem startet eine Würfelanimation. Beim Loslassen des Tasters wird eine Zufallszahl gewürfelt, dargestellt und nach etwa 7 Sekunden wieder ausgeschalten. Durch die gedrückte Zeit des Tasters ergibt sich hierbei die Zufälligkeit.
-<p>Weitere Details findest du in der [Dokumentation](#Dokumentation) oder im Programmcode.
+Beim Drücken des Tasters wird ein Timer gestartet, außerdem startet eine Würfelanimation. Beim Loslassen des Tasters wird eine Zufallszahl gewürfelt, dargestellt und nach etwa 7 Sekunden wieder ausgeschalten. Durch die gedrückte Zeit des Tasters ergibt sich hierbei die Zufälligkeit. <p>
+Weitere Details findest du in der [Dokumentation](#Dokumentation) oder im [Programmcode](/Software/Code/).
 
 
  
@@ -73,7 +72,7 @@ Modus  &  Stromaufnahme <p>
 
 - Maße: 60 x 35 x ~10 mm
 
-- Verwendungszweck: Würfel auf Spieleabende
+- Verwendungszweck: Würfel für Spieleabende
 
 
  
@@ -93,11 +92,13 @@ Es ist toll, dass du anderen Zeigen möchtest wie einfach Löten oder Elektrotec
 
  
 ## Inspired by
-BlinkyParts <p>
-https://github.com/Binary-Kitchen/SolderingTutorial <p>
-https://binary-kitchen.github.io/SolderingTutorial/ <p>
-https://shop.blinkyparts.com/de/Bausaetze/
+BlinkyParts
+- https://github.com/Binary-Kitchen/SolderingTutorial
+- https://binary-kitchen.github.io/SolderingTutorial/
+- https://shop.blinkyparts.com/de/Bausaetze/
 
  
 ## Copyright and Authorship
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Fachschaft Elektro- und Informationstechnik der OTH Regensburg
+
+© [FSEI OTH Regensburg](fsei-regensburg.de)
